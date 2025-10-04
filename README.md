@@ -54,8 +54,6 @@ Run Commands
 # Launch Jupyter Notebook
 jupyter notebook
 
-# Or run analysis directly
-python scripts/main_analysis.py
 
 # Generate specific visualizations
 python scripts/visualization.py
